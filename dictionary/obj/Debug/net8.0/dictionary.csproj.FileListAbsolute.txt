@@ -1,0 +1,14 @@
+E:\.net\Task program\dictionary\bin\Debug\net8.0\dictionary.exe
+E:\.net\Task program\dictionary\bin\Debug\net8.0\dictionary.deps.json
+E:\.net\Task program\dictionary\bin\Debug\net8.0\dictionary.runtimeconfig.json
+E:\.net\Task program\dictionary\bin\Debug\net8.0\dictionary.dll
+E:\.net\Task program\dictionary\bin\Debug\net8.0\dictionary.pdb
+E:\.net\Task program\dictionary\obj\Debug\net8.0\dictionary.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net\Task program\dictionary\obj\Debug\net8.0\dictionary.AssemblyInfoInputs.cache
+E:\.net\Task program\dictionary\obj\Debug\net8.0\dictionary.AssemblyInfo.cs
+E:\.net\Task program\dictionary\obj\Debug\net8.0\dictionary.csproj.CoreCompileInputs.cache
+E:\.net\Task program\dictionary\obj\Debug\net8.0\dictionary.dll
+E:\.net\Task program\dictionary\obj\Debug\net8.0\refint\dictionary.dll
+E:\.net\Task program\dictionary\obj\Debug\net8.0\dictionary.pdb
+E:\.net\Task program\dictionary\obj\Debug\net8.0\dictionary.genruntimeconfig.cache
+E:\.net\Task program\dictionary\obj\Debug\net8.0\ref\dictionary.dll
