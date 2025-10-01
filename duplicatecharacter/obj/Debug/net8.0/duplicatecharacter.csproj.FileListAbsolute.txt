@@ -1,0 +1,14 @@
+E:\.net\Task program\duplicatecharacter\bin\Debug\net8.0\duplicatecharacter.exe
+E:\.net\Task program\duplicatecharacter\bin\Debug\net8.0\duplicatecharacter.deps.json
+E:\.net\Task program\duplicatecharacter\bin\Debug\net8.0\duplicatecharacter.runtimeconfig.json
+E:\.net\Task program\duplicatecharacter\bin\Debug\net8.0\duplicatecharacter.dll
+E:\.net\Task program\duplicatecharacter\bin\Debug\net8.0\duplicatecharacter.pdb
+E:\.net\Task program\duplicatecharacter\obj\Debug\net8.0\duplicatecharacter.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net\Task program\duplicatecharacter\obj\Debug\net8.0\duplicatecharacter.AssemblyInfoInputs.cache
+E:\.net\Task program\duplicatecharacter\obj\Debug\net8.0\duplicatecharacter.AssemblyInfo.cs
+E:\.net\Task program\duplicatecharacter\obj\Debug\net8.0\duplicatecharacter.csproj.CoreCompileInputs.cache
+E:\.net\Task program\duplicatecharacter\obj\Debug\net8.0\duplicatecharacter.dll
+E:\.net\Task program\duplicatecharacter\obj\Debug\net8.0\refint\duplicatecharacter.dll
+E:\.net\Task program\duplicatecharacter\obj\Debug\net8.0\duplicatecharacter.pdb
+E:\.net\Task program\duplicatecharacter\obj\Debug\net8.0\duplicatecharacter.genruntimeconfig.cache
+E:\.net\Task program\duplicatecharacter\obj\Debug\net8.0\ref\duplicatecharacter.dll
