@@ -1,0 +1,14 @@
+E:\.net\Task program\evenoddArray\bin\Debug\net8.0\evenoddArray.exe
+E:\.net\Task program\evenoddArray\bin\Debug\net8.0\evenoddArray.deps.json
+E:\.net\Task program\evenoddArray\bin\Debug\net8.0\evenoddArray.runtimeconfig.json
+E:\.net\Task program\evenoddArray\bin\Debug\net8.0\evenoddArray.dll
+E:\.net\Task program\evenoddArray\bin\Debug\net8.0\evenoddArray.pdb
+E:\.net\Task program\evenoddArray\obj\Debug\net8.0\evenoddArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net\Task program\evenoddArray\obj\Debug\net8.0\evenoddArray.AssemblyInfoInputs.cache
+E:\.net\Task program\evenoddArray\obj\Debug\net8.0\evenoddArray.AssemblyInfo.cs
+E:\.net\Task program\evenoddArray\obj\Debug\net8.0\evenoddArray.csproj.CoreCompileInputs.cache
+E:\.net\Task program\evenoddArray\obj\Debug\net8.0\evenoddArray.dll
+E:\.net\Task program\evenoddArray\obj\Debug\net8.0\refint\evenoddArray.dll
+E:\.net\Task program\evenoddArray\obj\Debug\net8.0\evenoddArray.pdb
+E:\.net\Task program\evenoddArray\obj\Debug\net8.0\evenoddArray.genruntimeconfig.cache
+E:\.net\Task program\evenoddArray\obj\Debug\net8.0\ref\evenoddArray.dll
