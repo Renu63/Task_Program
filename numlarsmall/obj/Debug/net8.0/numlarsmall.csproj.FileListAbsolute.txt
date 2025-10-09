@@ -1,0 +1,14 @@
+E:\.net\Task program\numlarsmall\bin\Debug\net8.0\numlarsmall.exe
+E:\.net\Task program\numlarsmall\bin\Debug\net8.0\numlarsmall.deps.json
+E:\.net\Task program\numlarsmall\bin\Debug\net8.0\numlarsmall.runtimeconfig.json
+E:\.net\Task program\numlarsmall\bin\Debug\net8.0\numlarsmall.dll
+E:\.net\Task program\numlarsmall\bin\Debug\net8.0\numlarsmall.pdb
+E:\.net\Task program\numlarsmall\obj\Debug\net8.0\numlarsmall.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net\Task program\numlarsmall\obj\Debug\net8.0\numlarsmall.AssemblyInfoInputs.cache
+E:\.net\Task program\numlarsmall\obj\Debug\net8.0\numlarsmall.AssemblyInfo.cs
+E:\.net\Task program\numlarsmall\obj\Debug\net8.0\numlarsmall.csproj.CoreCompileInputs.cache
+E:\.net\Task program\numlarsmall\obj\Debug\net8.0\numlarsmall.dll
+E:\.net\Task program\numlarsmall\obj\Debug\net8.0\refint\numlarsmall.dll
+E:\.net\Task program\numlarsmall\obj\Debug\net8.0\numlarsmall.pdb
+E:\.net\Task program\numlarsmall\obj\Debug\net8.0\numlarsmall.genruntimeconfig.cache
+E:\.net\Task program\numlarsmall\obj\Debug\net8.0\ref\numlarsmall.dll
