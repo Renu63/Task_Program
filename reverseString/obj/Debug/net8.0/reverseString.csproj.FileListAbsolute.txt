@@ -1,0 +1,14 @@
+E:\.net\Task program\reverseString\bin\Debug\net8.0\reverseString.exe
+E:\.net\Task program\reverseString\bin\Debug\net8.0\reverseString.deps.json
+E:\.net\Task program\reverseString\bin\Debug\net8.0\reverseString.runtimeconfig.json
+E:\.net\Task program\reverseString\bin\Debug\net8.0\reverseString.dll
+E:\.net\Task program\reverseString\bin\Debug\net8.0\reverseString.pdb
+E:\.net\Task program\reverseString\obj\Debug\net8.0\reverseString.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net\Task program\reverseString\obj\Debug\net8.0\reverseString.AssemblyInfoInputs.cache
+E:\.net\Task program\reverseString\obj\Debug\net8.0\reverseString.AssemblyInfo.cs
+E:\.net\Task program\reverseString\obj\Debug\net8.0\reverseString.csproj.CoreCompileInputs.cache
+E:\.net\Task program\reverseString\obj\Debug\net8.0\reverseString.dll
+E:\.net\Task program\reverseString\obj\Debug\net8.0\refint\reverseString.dll
+E:\.net\Task program\reverseString\obj\Debug\net8.0\reverseString.pdb
+E:\.net\Task program\reverseString\obj\Debug\net8.0\reverseString.genruntimeconfig.cache
+E:\.net\Task program\reverseString\obj\Debug\net8.0\ref\reverseString.dll
