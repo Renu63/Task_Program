@@ -1,0 +1,8 @@
+E:\.net\Task program\swap2\bin\Debug\swap2.exe.config
+E:\.net\Task program\swap2\bin\Debug\swap2.exe
+E:\.net\Task program\swap2\bin\Debug\swap2.pdb
+E:\.net\Task program\swap2\obj\Debug\swap2.csproj.AssemblyReference.cache
+E:\.net\Task program\swap2\obj\Debug\swap2.csproj.CoreCompileInputs.cache
+E:\.net\Task program\swap2\obj\Debug\swap2.exe
+E:\.net\Task program\swap2\obj\Debug\swap2.pdb
+E:\.net\Task program\swap2\obj\Debug\swap2.exe.config

@@ -1,0 +1,8 @@
+E:\.net\Task program\Starpattern\bin\Debug\Starpattern.exe.config
+E:\.net\Task program\Starpattern\bin\Debug\Starpattern.exe
+E:\.net\Task program\Starpattern\bin\Debug\Starpattern.pdb
+E:\.net\Task program\Starpattern\obj\Debug\Starpattern.csproj.AssemblyReference.cache
+E:\.net\Task program\Starpattern\obj\Debug\Starpattern.csproj.CoreCompileInputs.cache
+E:\.net\Task program\Starpattern\obj\Debug\Starpattern.exe
+E:\.net\Task program\Starpattern\obj\Debug\Starpattern.pdb
+E:\.net\Task program\Starpattern\obj\Debug\Starpattern.exe.config
